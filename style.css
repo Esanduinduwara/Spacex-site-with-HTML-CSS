@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+
+body{
+    
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+    background-color: black;
+   
+
+}
+
+
+  
+
+.bta{
+    
+    background-image: url("space.gif");
+    background-size: cover;
+    padding-bottom:200px;
+    background-size: contain;
+    background-position: center;
+    background-size: 100% 100%;
+    font-weight:600;
+    color: #82a5ca;
+
+
+    
+
+}
+
+
+.btq{
+    font-family:inherit;
+    color:#eaeff5;
+    text-align: center;
+
+}
+
+
+.button{
+   
+    padding: 6px 12px; 
+    background:white;
+    border:none;
+    font-family: 'Orbitron', sans-serif;
+    color:inherit;
+    font-weight:800;
+
+
+}
+
+
+.underline{
+
+border-bottom: 4px solid white;
+
+}
+
+#main-logo{
+    width:60px;
+    padding-top:10px;
+}
+
+
+#title{
+        
+
+}
